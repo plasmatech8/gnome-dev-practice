@@ -1,2 +1,0 @@
-# gnome-dev-practice
-PRACTICE
